@@ -25,7 +25,7 @@ namespace _1A2B
                     auto[i] = random.Next(1, 10);
                 }
                 Console.Write("電腦答案:");
-                auto[0] = 1; auto[1] = 1; auto[2] = 1; auto[3] = 1;
+                //auto[0] = 1; auto[1] = 1; auto[2] = 1; auto[3] = 1; 4個數字相同測試
                 foreach (int i in auto) Console.Write(i);
                 do
                 {
