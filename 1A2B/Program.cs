@@ -79,7 +79,7 @@ namespace _1A2B
                     }
                 }while (game != "y" && game!="n");
             }while(game== "y");
-            Console.WriteLine("遊戲結束，下次再來玩喔～");
+            Console.WriteLine("遊戲結束，下次再來玩喔～ ");
 
         }
     }
